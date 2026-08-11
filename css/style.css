@@ -357,6 +357,12 @@ header {
     margin-bottom: 30px;
 }
 
+.project-card .btn-black,
+.project-card .btn-outline {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
 /* FOOTER */
 .footer-top {
     background: var(--primary);
